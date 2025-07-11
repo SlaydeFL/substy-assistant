@@ -1,0 +1,51 @@
+[
+  {
+    "id": "0c97b236-7db1-4927-84f2-4c9eb7e538bc",
+    "text": "je vais au médecin demain a 11h",
+    "timestamp": 1752261235638,
+    "type": "fact"
+  },
+  {
+    "id": "444b032d-8859-4ba9-aafc-7427d40ab993",
+    "text": "demain a 11h",
+    "timestamp": 1752261235640,
+    "type": "fact"
+  },
+  {
+    "id": "16fd56c0-6cdb-44f7-9569-04273e047486",
+    "text": "Question posée: À quelle heure décolle votre avion ?",
+    "timestamp": 1752261249199,
+    "type": "question_asked",
+    "context": "Événement: Vol pour jeudi prochain"
+  },
+  {
+    "id": "ea36d201-330c-47de-99fa-f5d38b32a2c0",
+    "text": "Jeudi prochain je prends mon vol pour Lisbonne",
+    "timestamp": 1752261249199,
+    "type": "fact"
+  },
+  {
+    "id": "60b9effc-5a2f-47f7-b2c2-83de5c5c48e5",
+    "text": "Jeudi prochain je prends mon vol pour Lisbonne",
+    "timestamp": 1752261249199,
+    "type": "fact"
+  },
+  {
+    "id": "e1d4d85c-0b83-4dbb-aadd-304cdbe60bf3",
+    "text": "Événement créé: Vol jeudi prochain à 16h",
+    "timestamp": 1752261254206,
+    "type": "event_created"
+  },
+  {
+    "id": "ae452708-0ca6-4c60-a22f-75c7c1007b29",
+    "text": "jeudi prochain, il s'est fait annulé",
+    "timestamp": 1752261287668,
+    "type": "fact"
+  },
+  {
+    "id": "886f8ba7-8dd3-48af-a831-664888570a0f",
+    "text": "jeudi prochain, il s'est fait annulé",
+    "timestamp": 1752261287669,
+    "type": "fact"
+  }
+]

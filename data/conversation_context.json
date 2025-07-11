@@ -1,0 +1,11 @@
+{
+  "awaitingResponse": true,
+  "lastQuestion": "Je peux vous aider à planifier vos événements. Dites-moi ce que vous voulez faire, quel jour et à quelle heure !",
+  "lastQuestionType": "time",
+  "pendingEvent": {
+    "title": "Événement",
+    "day": "demain",
+    "category": "Autre",
+    "originalRequest": "Demain j'ai quoi de prévu ?"
+  }
+}
